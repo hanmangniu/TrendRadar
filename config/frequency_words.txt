@@ -153,4 +153,9 @@ PS5
 XBOX
 SWITCH
 
-/switch|ns|Nintendo Switch/ => 任天堂switch
+[内存相关]
+内存
+存储
+颗粒
+
+/switch|Nintendo Switch/ => 任天堂switch
